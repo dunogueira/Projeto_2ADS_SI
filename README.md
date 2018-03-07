@@ -1,2 +1,3 @@
 # Projeto_2ADS_SI
-Projeto faculdade
+
+#Eduardo /#Wellington /#Rui /#Victor /#joão /#Leandro
